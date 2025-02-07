@@ -1,0 +1,3 @@
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/Pattern_problems/cmake-build-debug/CMakeFiles/Pattern_problems.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/Pattern_problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/Pattern_problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir

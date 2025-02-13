@@ -14,7 +14,7 @@ vector<int> answer (vector<int> num , int target){
         sum = start + end;
         if(sum > target){
             end = num[n-1 -i];
-        }else if(sum< target){
+        }else if(sum < target){
             start = num[i];
         }else{
             ans.push_back(start);

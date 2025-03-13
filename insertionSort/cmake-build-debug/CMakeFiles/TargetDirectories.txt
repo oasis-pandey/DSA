@@ -1,0 +1,3 @@
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/insertionSort/cmake-build-debug/CMakeFiles/insertionSort.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/insertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/insertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

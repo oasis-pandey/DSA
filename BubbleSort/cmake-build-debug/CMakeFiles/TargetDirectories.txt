@@ -1,0 +1,3 @@
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/bubbleSort/cmake-build-debug/CMakeFiles/bubbleSort.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/bubbleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oasis/Desktop/CS_II/contributions/oasis/bubbleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

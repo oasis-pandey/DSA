@@ -14,7 +14,7 @@ void selectionSort(vector<int>& arr){
         }
         swap(arr[i], arr[minIdx]);
     }
-    
+
     for(int i=0; i<arr.size(); i++){
         cout << arr[i] << " ";
     }
